@@ -1,0 +1,1252 @@
+treatment,Age,Gender,family_history,work_interfere,benefits,care_options
+1,37,Female,No,Often,Yes,Not sure
+0,44,Male,No,Rarely,Don't know,No
+0,32,Male,No,Rarely,No,No
+1,31,Male,Yes,Often,No,Yes
+0,31,Male,No,Never,Yes,No
+0,33,Male,Yes,Sometimes,Yes,Not sure
+1,35,Female,Yes,Sometimes,No,No
+0,39,Male,No,Never,No,Yes
+1,42,Female,Yes,Sometimes,Yes,Yes
+0,23,Male,No,Never,Don't know,No
+1,31,Male,No,Sometimes,Don't know,No
+0,29,Male,No,Never,Don't know,Not sure
+1,42,Female,Yes,Sometimes,Yes,Yes
+0,36,Male,Yes,Never,Don't know,Not sure
+0,27,Male,No,Never,Don't know,Not sure
+1,29,Female,Yes,Rarely,Yes,Not sure
+1,23,Male,No,Sometimes,Don't know,No
+1,32,Male,No,Sometimes,Yes,Yes
+0,46,Male,Yes,Sometimes,Yes,Not sure
+0,36,Male,Yes,Unknown,No,No
+1,29,Male,Yes,Sometimes,Yes,Yes
+0,31,Male,No,Never,No,No
+1,46,Male,No,Often,Yes,Yes
+1,41,Male,No,Never,Don't know,No
+1,33,Male,Yes,Rarely,Yes,Not sure
+1,35,Male,Yes,Sometimes,Yes,Yes
+0,33,Male,No,Unknown,Don't know,Not sure
+1,35,Female,Yes,Rarely,Yes,Yes
+1,34,Male,No,Sometimes,Don't know,Not sure
+0,37,Male,No,Sometimes,No,No
+0,32,Male,No,Never,No,No
+0,31,Male,Yes,Rarely,No,Yes
+1,30,Male,Yes,Sometimes,Don't know,No
+1,42,Male,Yes,Sometimes,Yes,Yes
+1,40,Female,No,Sometimes,Yes,Yes
+1,27,Male,No,Rarely,No,Yes
+0,29,Male,No,Rarely,No,No
+0,38,Male,No,Unknown,No,Yes
+0,50,Male,No,Unknown,Yes,Yes
+1,35,Male,No,Rarely,Yes,Yes
+1,24,Male,No,Sometimes,No,No
+0,35,Male,No,Unknown,Yes,Not sure
+1,27,Male,Yes,Sometimes,No,Yes
+0,18,Male,No,Often,No,Not sure
+1,30,Male,No,Sometimes,Don't know,No
+1,38,Female,Yes,Sometimes,Yes,Yes
+0,28,Male,No,Unknown,Don't know,Not sure
+0,34,Male,No,Unknown,No,No
+0,26,Male,No,Sometimes,No,Yes
+1,30,Male,Yes,Rarely,Yes,No
+1,22,Male,Yes,Often,No,Yes
+0,33,Male,No,Unknown,Don't know,Not sure
+0,31,Male,No,Unknown,Don't know,No
+0,32,Male,No,Never,Don't know,Not sure
+0,28,Male,No,Unknown,No,No
+1,27,Male,Yes,Rarely,Yes,Yes
+0,32,Other,Yes,Unknown,Don't know,No
+1,24,Male,Yes,Sometimes,Don't know,No
+0,26,Male,No,Unknown,No,No
+1,33,Male,Yes,Often,Don't know,No
+1,44,Male,Yes,Sometimes,Yes,No
+1,26,Female,No,Sometimes,Don't know,Not sure
+0,27,Male,No,Never,Yes,Not sure
+0,26,Male,No,Unknown,No,No
+0,35,Male,No,Sometimes,Don't know,No
+0,40,Male,Yes,Sometimes,Yes,Yes
+1,23,Female,Yes,Often,No,Not sure
+0,36,Male,No,Sometimes,Yes,No
+0,31,Female,No,Unknown,Don't know,No
+0,34,Male,No,Rarely,No,No
+0,28,Male,No,Never,No,No
+0,34,Male,No,Never,Don't know,Not sure
+0,23,Female,No,Rarely,Yes,Yes
+0,38,Male,No,Unknown,No,No
+0,33,Male,No,Never,Don't know,Not sure
+0,19,Male,No,Unknown,No,Yes
+0,25,Male,No,Unknown,Yes,Yes
+0,31,Male,Yes,Sometimes,No,No
+1,32,Male,Yes,Sometimes,No,No
+0,28,Male,No,Never,Don't know,No
+0,38,Male,Yes,Sometimes,Yes,Yes
+0,23,Male,No,Never,Yes,Not sure
+0,30,Male,No,Never,No,No
+1,27,Female,No,Often,Yes,Yes
+0,33,Male,Yes,Never,No,No
+0,31,Male,No,Unknown,Don't know,Not sure
+1,39,Male,No,Often,No,No
+1,34,Female,Yes,Rarely,Yes,Not sure
+1,29,Female,No,Sometimes,Yes,Yes
+0,32,Male,No,Unknown,Don't know,No
+0,31,Male,No,Never,Yes,Yes
+1,40,Male,No,Sometimes,No,Yes
+0,34,Male,No,Unknown,Don't know,No
+0,18,Male,No,Unknown,Yes,Yes
+1,25,Female,No,Sometimes,Yes,Yes
+0,29,Male,No,Never,Don't know,No
+0,24,Male,Yes,Rarely,Don't know,Not sure
+1,31,Male,Yes,Sometimes,Don't know,No
+1,33,Male,No,Sometimes,No,Yes
+1,30,Male,No,Often,No,Yes
+1,26,Female,Yes,Sometimes,No,Yes
+0,44,Female,No,Never,Yes,Not sure
+0,25,Male,Yes,Unknown,Don't know,No
+1,33,Male,Yes,Sometimes,Yes,Yes
+0,29,Male,No,Never,Yes,Not sure
+0,35,Male,Yes,Rarely,Yes,Not sure
+1,35,Male,Yes,Sometimes,Don't know,Not sure
+1,28,Male,Yes,Rarely,No,No
+0,34,Male,Yes,Never,Yes,No
+1,32,Male,No,Sometimes,Yes,No
+1,22,Male,No,Sometimes,Yes,Yes
+1,28,Male,No,Sometimes,Yes,Yes
+1,45,Male,Yes,Rarely,Yes,Yes
+0,32,Male,No,Never,Yes,Yes
+0,28,Male,No,Unknown,Don't know,No
+0,26,Male,No,Never,Don't know,No
+0,21,Male,No,Often,No,Yes
+0,27,Male,No,Rarely,Yes,Yes
+1,18,Male,No,Rarely,No,No
+0,35,Male,No,Unknown,Don't know,Not sure
+0,29,Male,No,Never,Yes,Yes
+0,25,Male,No,Unknown,Don't know,No
+1,33,Male,Yes,Sometimes,Don't know,No
+0,36,Male,No,Often,Yes,No
+1,27,Male,No,Never,Yes,Not sure
+0,27,Male,Yes,Never,Yes,No
+0,27,Male,No,Unknown,No,No
+1,32,Male,No,Rarely,Yes,Yes
+0,31,Male,Yes,Sometimes,No,No
+1,19,Male,No,Sometimes,Don't know,No
+1,33,Male,Yes,Sometimes,Yes,Yes
+0,32,Male,No,Rarely,No,Yes
+0,27,Male,No,Never,Don't know,Not sure
+0,38,Male,No,Unknown,No,Yes
+1,24,Male,No,Never,Don't know,No
+0,39,Male,No,Never,No,No
+0,28,Male,No,Never,Don't know,No
+1,39,Male,No,Often,Yes,Not sure
+0,29,Female,No,Unknown,Don't know,No
+0,22,Male,No,Unknown,Don't know,No
+1,38,Male,Yes,Sometimes,Don't know,No
+1,37,Male,No,Sometimes,No,Yes
+0,35,Male,No,Never,Don't know,Not sure
+0,30,Female,Yes,Unknown,Don't know,Not sure
+1,37,Male,Yes,Rarely,Yes,Yes
+0,24,Male,No,Never,No,No
+0,23,Male,No,Sometimes,No,No
+1,30,Male,No,Rarely,No,Yes
+0,29,Female,No,Unknown,Don't know,Not sure
+0,19,Male,Yes,Unknown,Don't know,Not sure
+0,32,Male,Yes,Never,Don't know,Not sure
+0,28,Male,No,Rarely,No,No
+0,36,Male,No,Never,Don't know,Not sure
+1,37,Male,Yes,Rarely,Yes,Yes
+1,25,Male,Yes,Sometimes,Don't know,No
+1,27,Male,Yes,Sometimes,Don't know,No
+0,26,Male,No,Often,Don't know,Not sure
+1,27,Male,No,Rarely,No,Yes
+1,25,Male,Yes,Sometimes,Don't know,Not sure
+1,36,Male,No,Sometimes,Yes,Yes
+1,25,Female,Yes,Sometimes,Yes,No
+0,31,Male,No,Never,Yes,No
+0,26,Male,Yes,Rarely,Don't know,No
+1,33,Female,Yes,Sometimes,No,Yes
+0,27,Other,Yes,Unknown,No,Yes
+0,34,Male,No,Never,No,No
+0,42,Male,No,Unknown,No,Yes
+0,23,Male,Yes,Sometimes,No,No
+0,24,Male,No,Rarely,Don't know,Not sure
+1,26,Male,No,Sometimes,Yes,Yes
+1,31,Male,No,Often,Don't know,No
+1,22,Male,No,Never,Don't know,Not sure
+0,23,Female,No,Unknown,Don't know,No
+1,34,Female,Yes,Sometimes,Yes,Yes
+0,31,Male,No,Never,Don't know,Not sure
+0,28,Male,No,Unknown,No,Not sure
+1,32,Female,No,Often,Yes,Not sure
+1,45,Female,No,Sometimes,Yes,No
+0,33,Male,No,Unknown,Don't know,No
+0,29,Male,No,Never,No,No
+0,26,Female,No,Sometimes,No,No
+0,28,Female,No,Never,Don't know,No
+1,45,Male,No,Sometimes,Don't know,Not sure
+1,43,Male,Yes,Often,Yes,Not sure
+0,37,Male,No,Unknown,Yes,No
+0,24,Male,No,Sometimes,Don't know,No
+0,26,Male,No,Unknown,No,Yes
+0,23,Male,Yes,Unknown,Don't know,No
+1,35,Female,Yes,Never,Yes,Not sure
+1,38,Female,Yes,Often,No,Yes
+1,28,Male,Yes,Sometimes,Yes,No
+0,28,Male,No,Sometimes,No,No
+1,35,Male,No,Rarely,No,No
+0,32,Female,No,Sometimes,No,No
+0,31,Other,Yes,Never,No,No
+0,35,Female,No,Never,Don't know,Not sure
+0,26,Male,No,Rarely,Yes,No
+0,27,Male,Yes,Unknown,Yes,Yes
+1,28,Male,Yes,Sometimes,Don't know,No
+1,27,Female,Yes,Sometimes,Yes,No
+1,34,Female,No,Sometimes,Yes,Yes
+1,41,Male,No,Often,No,Not sure
+0,37,Male,No,Sometimes,No,Yes
+0,34,Male,Yes,Unknown,Don't know,No
+1,32,Male,Yes,Sometimes,Don't know,Not sure
+1,21,Male,No,Sometimes,No,Yes
+1,30,Male,No,Often,No,Yes
+0,24,Male,No,Never,Don't know,Not sure
+0,26,Male,No,Unknown,No,No
+0,40,Female,No,Unknown,Yes,Yes
+0,37,Male,Yes,Sometimes,No,No
+1,26,Male,No,Often,No,No
+1,32,Female,Yes,Sometimes,Don't know,No
+1,32,Female,No,Sometimes,Yes,Yes
+1,27,Female,Yes,Sometimes,No,No
+1,30,Male,No,Often,Yes,Yes
+0,31,Male,No,Unknown,Yes,Yes
+1,29,Female,No,Never,Yes,No
+0,41,Male,No,Unknown,Yes,Not sure
+0,34,Female,No,Unknown,Yes,No
+0,33,Male,No,Unknown,Don't know,No
+0,28,Male,No,Rarely,Don't know,No
+1,28,Male,No,Sometimes,No,Yes
+0,23,Male,No,Never,Don't know,Not sure
+0,24,Male,No,Unknown,Don't know,No
+0,32,Male,No,Rarely,No,Yes
+0,34,Male,No,Sometimes,Don't know,Not sure
+0,24,Male,No,Never,Yes,Not sure
+1,26,Male,No,Sometimes,No,Yes
+1,36,Male,No,Sometimes,Yes,No
+1,41,Male,No,Rarely,Yes,Yes
+1,38,Male,No,Sometimes,Don't know,Not sure
+0,38,Male,No,Sometimes,Don't know,Not sure
+0,30,Male,No,Unknown,Don't know,No
+0,25,Male,No,Never,No,No
+1,37,Male,Yes,Often,Yes,Yes
+0,34,Male,Yes,Unknown,No,No
+1,37,Female,Yes,Sometimes,Yes,Yes
+1,28,Female,Yes,Sometimes,Yes,Yes
+0,22,Male,No,Unknown,Don't know,No
+1,34,Male,Yes,Sometimes,No,No
+1,33,Male,Yes,Sometimes,Yes,Yes
+0,25,Male,No,Unknown,No,No
+0,27,Male,No,Never,Yes,Yes
+1,40,Male,No,Sometimes,Yes,Yes
+1,21,Male,No,Often,Don't know,No
+0,29,Male,No,Unknown,No,No
+1,32,Male,Yes,Sometimes,No,No
+1,29,Female,Yes,Rarely,Yes,Yes
+1,23,Male,Yes,Sometimes,Don't know,No
+0,28,Male,Yes,Unknown,Yes,No
+1,31,Male,Yes,Rarely,Yes,Yes
+0,27,Male,No,Unknown,Don't know,Not sure
+0,24,Male,No,Sometimes,Don't know,No
+0,29,Male,No,Often,No,No
+1,23,Female,No,Sometimes,Don't know,Not sure
+0,42,Male,No,Never,No,Yes
+0,24,Male,No,Unknown,No,No
+1,25,Male,Yes,Often,No,Yes
+1,27,Female,No,Rarely,Yes,No
+0,27,Male,No,Sometimes,No,Yes
+1,30,Male,No,Sometimes,Yes,Yes
+1,29,Male,Yes,Rarely,No,Yes
+0,43,Male,No,Unknown,No,Not sure
+0,32,Male,No,Unknown,No,Yes
+1,41,Male,No,Sometimes,Yes,Yes
+1,32,Male,Yes,Sometimes,Don't know,Not sure
+1,37,Female,Yes,Often,Yes,Yes
+0,32,Male,No,Never,No,No
+0,30,Male,No,Sometimes,No,No
+1,23,Female,Yes,Never,Yes,No
+0,30,Male,No,Unknown,Yes,Yes
+0,34,Male,No,Sometimes,No,Yes
+1,38,Male,No,Rarely,Yes,No
+0,33,Male,No,Unknown,Yes,No
+0,34,Male,No,Unknown,Yes,No
+0,28,Male,No,Sometimes,No,Yes
+1,28,Male,No,Rarely,Yes,Yes
+0,23,Male,Yes,Sometimes,Don't know,No
+1,22,Male,Yes,Sometimes,Don't know,Not sure
+0,27,Male,No,Never,No,No
+1,18,Male,No,Sometimes,Don't know,No
+1,35,Male,Yes,Sometimes,Yes,Yes
+0,25,Male,No,Unknown,Don't know,Not sure
+1,27,Male,Yes,Sometimes,No,No
+1,26,Female,Yes,Rarely,Yes,Not sure
+0,18,Male,No,Never,Don't know,Not sure
+1,38,Female,No,Sometimes,No,Yes
+1,26,Female,Yes,Rarely,Yes,Yes
+0,30,Male,No,Never,No,No
+0,35,Male,No,Never,Don't know,No
+1,45,Male,Yes,Sometimes,Yes,Yes
+0,32,Male,No,Never,Yes,No
+1,56,Male,No,Never,Yes,Not sure
+0,24,Female,No,Unknown,Don't know,Not sure
+1,30,Female,Yes,Sometimes,Yes,Yes
+0,60,Male,No,Unknown,Yes,No
+1,33,Male,Yes,Sometimes,Yes,No
+0,37,Male,No,Never,Yes,Yes
+1,23,Female,No,Sometimes,Yes,Yes
+1,31,Female,No,Sometimes,Yes,Not sure
+0,26,Male,No,Rarely,Yes,Not sure
+1,28,Female,Yes,Often,Yes,Yes
+1,37,Female,No,Rarely,Yes,Yes
+1,26,Male,Yes,Often,Yes,No
+1,30,Other,Yes,Rarely,Yes,Not sure
+0,26,Male,No,Unknown,No,No
+0,25,Male,No,Unknown,Don't know,Not sure
+0,27,Male,No,Sometimes,Yes,Not sure
+1,25,Male,No,Often,Don't know,No
+1,35,Male,No,Rarely,Yes,Not sure
+1,36,Male,No,Never,No,Yes
+1,26,Male,Yes,Sometimes,Yes,Not sure
+0,27,Male,Yes,Unknown,Don't know,No
+0,30,Male,No,Unknown,Don't know,Not sure
+0,29,Male,No,Unknown,Don't know,Not sure
+0,25,Male,No,Never,Yes,Yes
+1,22,Female,Yes,Often,Yes,Yes
+0,29,Male,No,Unknown,No,Yes
+1,41,Male,Yes,Rarely,Yes,Yes
+1,29,Male,No,Sometimes,Yes,No
+0,32,Male,No,Never,Yes,Not sure
+1,24,Female,Yes,Sometimes,Yes,Yes
+1,25,Male,No,Rarely,Yes,No
+0,25,Male,No,Unknown,Don't know,Not sure
+0,30,Female,No,Never,Yes,Yes
+1,25,Male,Yes,Sometimes,Don't know,Not sure
+0,30,Male,No,Never,No,Yes
+1,33,Male,Yes,Rarely,No,No
+0,24,Male,No,Unknown,Yes,Not sure
+1,25,Male,Yes,Sometimes,Yes,Yes
+0,31,Male,No,Unknown,Don't know,No
+1,45,Male,No,Often,No,No
+0,29,Male,No,Unknown,No,Yes
+0,46,Male,No,Never,Yes,Not sure
+1,30,Male,No,Sometimes,Don't know,No
+0,29,Female,No,Sometimes,Yes,Not sure
+0,24,Male,No,Unknown,Yes,Yes
+0,29,Male,No,Unknown,Yes,Yes
+0,35,Male,No,Unknown,Don't know,Not sure
+0,33,Female,Yes,Sometimes,No,Yes
+0,27,Male,No,Sometimes,Don't know,Not sure
+0,36,Male,No,Unknown,Don't know,Not sure
+0,33,Male,No,Rarely,Don't know,No
+1,25,Female,Yes,Sometimes,Yes,Yes
+1,23,Male,Yes,Sometimes,Don't know,No
+1,54,Male,Yes,Never,Don't know,No
+0,22,Male,No,Sometimes,Don't know,No
+1,25,Other,Yes,Sometimes,Yes,Yes
+0,29,Male,No,Often,Don't know,No
+1,27,Male,No,Sometimes,Yes,Yes
+0,30,Male,No,Never,No,No
+1,26,Male,Yes,Often,Yes,Not sure
+0,25,Female,Yes,Sometimes,Yes,Yes
+1,31,Male,No,Sometimes,No,Yes
+1,33,Male,Yes,Sometimes,Don't know,Not sure
+1,34,Male,Yes,Sometimes,Yes,Yes
+1,34,Male,No,Sometimes,No,No
+0,29,Male,No,Unknown,No,Yes
+0,33,Other,No,Unknown,No,No
+1,34,Male,Yes,Rarely,No,No
+1,26,Male,Yes,Rarely,No,No
+1,32,Male,Yes,Rarely,Yes,Yes
+1,28,Male,Yes,Sometimes,Don't know,Not sure
+0,35,Male,Yes,Unknown,Yes,No
+1,36,Male,Yes,Often,No,Yes
+1,21,Male,Yes,Rarely,Yes,No
+1,21,Male,No,Sometimes,Don't know,Not sure
+0,22,Female,No,Unknown,Yes,No
+1,41,Male,Yes,Often,Yes,No
+1,55,Male,Yes,Rarely,Yes,Yes
+1,32,Female,No,Sometimes,Yes,Yes
+1,21,Female,Yes,Rarely,Don't know,Not sure
+1,45,Male,No,Never,Yes,Yes
+1,27,Female,No,Rarely,Yes,Yes
+1,25,Female,Yes,Sometimes,Don't know,No
+1,34,Other,Yes,Rarely,Yes,Yes
+1,26,Female,Yes,Never,Yes,Yes
+1,41,Male,No,Never,Yes,Not sure
+1,27,Male,No,Rarely,Yes,No
+1,31,Other,Yes,Sometimes,Yes,No
+1,25,Male,Yes,Often,No,No
+1,26,Male,No,Sometimes,Don't know,No
+1,27,Female,Yes,Rarely,Yes,Yes
+0,42,Male,No,Never,Don't know,Not sure
+1,29,Other,Yes,Sometimes,Yes,Yes
+1,25,Female,No,Sometimes,Don't know,Not sure
+1,33,Female,Yes,Rarely,Yes,Yes
+1,40,Female,Yes,Rarely,Yes,No
+0,31,Male,No,Never,Don't know,No
+1,26,Male,Yes,Often,Don't know,No
+0,24,Female,Yes,Unknown,No,No
+0,29,Male,No,Never,Yes,Not sure
+0,48,Male,No,Unknown,Don't know,No
+0,35,Male,No,Sometimes,No,No
+0,32,Female,No,Never,Don't know,Not sure
+1,29,Male,No,Sometimes,Don't know,Not sure
+1,26,Male,Yes,Often,Yes,Yes
+1,28,Male,Yes,Sometimes,Yes,Yes
+0,23,Male,No,Unknown,Don't know,No
+1,35,Male,Yes,Sometimes,Yes,Yes
+1,29,Male,Yes,Sometimes,Don't know,No
+0,26,Male,Yes,Unknown,Yes,Yes
+1,33,Male,Yes,Never,Yes,Yes
+0,33,Male,No,Unknown,Don't know,No
+0,22,Male,No,Never,Don't know,No
+0,30,Female,Yes,Unknown,No,No
+1,33,Male,Yes,Often,Yes,Yes
+1,31,Female,Yes,Rarely,Don't know,Not sure
+0,21,Male,Yes,Never,Don't know,Not sure
+1,31,Other,Yes,Sometimes,Don't know,No
+1,26,Female,No,Sometimes,Don't know,Not sure
+0,30,Male,Yes,Often,Don't know,No
+1,30,Other,Yes,Sometimes,Don't know,Not sure
+0,23,Male,No,Unknown,No,No
+0,34,Male,No,Never,No,No
+1,55,Male,Yes,Sometimes,No,Yes
+1,28,Male,Yes,Rarely,Yes,No
+0,26,Male,No,Unknown,Don't know,No
+1,28,Male,Yes,Sometimes,Yes,Yes
+1,32,Male,Yes,Sometimes,No,No
+1,28,Female,No,Rarely,Yes,Yes
+0,21,Male,No,Sometimes,Don't know,Not sure
+1,24,Male,Yes,Sometimes,No,Yes
+0,26,Female,No,Unknown,Yes,Not sure
+0,23,Male,No,Unknown,Yes,No
+0,24,Female,No,Unknown,Yes,Yes
+0,28,Male,No,Never,Don't know,No
+1,24,Female,Yes,Rarely,No,No
+1,33,Male,No,Often,No,No
+0,34,Male,No,Sometimes,Don't know,No
+1,27,Female,No,Sometimes,Don't know,Not sure
+0,28,Male,No,Never,Don't know,No
+0,26,Male,No,Unknown,Don't know,Not sure
+0,20,Male,No,Unknown,Don't know,Not sure
+1,23,Female,No,Sometimes,Yes,Yes
+1,29,Male,Yes,Rarely,Yes,Yes
+0,26,Male,Yes,Sometimes,No,No
+0,36,Male,No,Rarely,Yes,No
+1,41,Male,No,Sometimes,Yes,Yes
+0,33,Female,No,Unknown,Yes,No
+1,23,Male,Yes,Sometimes,Yes,Yes
+0,39,Male,Yes,Often,Yes,No
+0,34,Male,Yes,Unknown,Yes,Not sure
+1,26,Female,No,Sometimes,Yes,Yes
+1,24,Male,No,Rarely,Yes,Yes
+1,37,Male,Yes,Rarely,Yes,Yes
+1,43,Male,Yes,Often,Yes,Yes
+0,40,Other,Yes,Never,Yes,Yes
+1,30,Male,Yes,Often,Yes,Yes
+1,34,Male,No,Sometimes,Don't know,Not sure
+1,27,Male,Yes,Sometimes,Don't know,Not sure
+0,36,Male,No,Sometimes,Don't know,No
+0,27,Male,No,Rarely,No,Yes
+0,35,Male,Yes,Never,Yes,No
+0,32,Male,No,Never,No,No
+0,37,Male,No,Unknown,Yes,No
+0,29,Male,No,Unknown,Don't know,No
+0,33,Female,No,Never,Yes,Not sure
+0,28,Other,No,Sometimes,No,Yes
+0,26,Female,Yes,Never,Don't know,Not sure
+1,27,Male,Yes,Sometimes,Don't know,No
+1,38,Male,No,Sometimes,No,No
+1,57,Male,Yes,Rarely,Yes,Yes
+1,28,Male,No,Sometimes,No,No
+0,26,Male,No,Never,No,Yes
+1,42,Female,No,Rarely,Yes,Yes
+1,31,Male,No,Sometimes,Yes,Yes
+1,58,Male,No,Rarely,Yes,Yes
+0,29,Male,No,Sometimes,Don't know,No
+1,39,Female,No,Sometimes,Yes,Yes
+0,34,Male,No,Sometimes,Don't know,No
+1,57,Male,No,Sometimes,Yes,Not sure
+1,27,Male,Yes,Sometimes,No,Not sure
+1,23,Male,Yes,Often,Don't know,No
+0,18,Male,No,Unknown,Don't know,No
+0,30,Female,No,Unknown,Don't know,Not sure
+0,23,Male,No,Never,Don't know,Not sure
+1,43,Male,No,Sometimes,Yes,Yes
+1,18,Female,Yes,Sometimes,Don't know,Not sure
+1,29,Male,No,Rarely,Yes,Yes
+0,48,Male,No,Never,Don't know,No
+1,43,Male,No,Sometimes,No,Yes
+1,28,Female,Yes,Sometimes,Don't know,Not sure
+1,30,Male,Yes,Often,No,Yes
+0,26,Male,No,Sometimes,No,No
+0,33,Male,No,Never,No,No
+0,31,Male,No,Unknown,Yes,Not sure
+0,30,Male,No,Rarely,Don't know,Not sure
+0,27,Male,No,Unknown,No,No
+1,24,Female,Yes,Sometimes,No,No
+0,25,Male,No,Unknown,Don't know,Not sure
+1,23,Female,Yes,Often,Yes,Not sure
+1,36,Male,No,Sometimes,Yes,Not sure
+1,25,Female,Yes,Often,Don't know,Not sure
+1,54,Male,No,Sometimes,No,Yes
+0,34,Male,No,Rarely,Don't know,Not sure
+1,38,Female,No,Unknown,Yes,Yes
+0,40,Male,Yes,Unknown,No,No
+0,32,Male,No,Unknown,No,Not sure
+0,25,Male,No,Never,Don't know,Not sure
+1,35,Female,No,Sometimes,No,Yes
+1,46,Male,No,Sometimes,Yes,Yes
+0,42,Male,No,Never,Yes,No
+1,32,Male,Yes,Sometimes,Yes,No
+1,47,Male,Yes,Sometimes,Yes,Yes
+0,22,Male,No,Unknown,Yes,Not sure
+1,33,Female,No,Sometimes,Yes,Yes
+0,25,Female,No,Sometimes,No,No
+0,29,Male,No,Unknown,Don't know,Not sure
+0,39,Male,No,Never,Yes,Yes
+1,38,Male,Yes,Sometimes,Yes,Not sure
+0,43,Male,No,Unknown,Don't know,No
+1,46,Male,No,Rarely,Yes,Not sure
+1,38,Female,Yes,Sometimes,Yes,Yes
+1,33,Male,No,Sometimes,Yes,Yes
+1,34,Male,Yes,Often,No,Yes
+0,62,Male,No,Never,Yes,Yes
+0,23,Female,No,Unknown,Don't know,Not sure
+0,35,Male,No,Unknown,No,No
+0,25,Male,Yes,Rarely,Don't know,Not sure
+1,36,Male,Yes,Sometimes,Don't know,Yes
+1,41,Female,Yes,Rarely,Yes,Yes
+0,24,Male,No,Sometimes,Yes,Yes
+1,51,Male,No,Sometimes,No,Yes
+1,29,Male,No,Sometimes,Yes,Yes
+1,31,Female,Yes,Sometimes,Don't know,Not sure
+0,27,Male,No,Unknown,No,No
+1,31,Male,No,Rarely,Yes,Yes
+0,27,Female,Yes,Sometimes,No,No
+0,23,Male,No,Rarely,Don't know,No
+0,21,Male,No,Never,Don't know,Not sure
+1,27,Female,Yes,Sometimes,No,Yes
+1,39,Male,Yes,Often,Yes,Yes
+1,26,Male,Yes,Never,Don't know,No
+0,27,Male,No,Never,Don't know,No
+1,22,Female,Yes,Sometimes,Yes,Yes
+1,26,Female,Yes,Often,Don't know,No
+1,31,Female,Yes,Rarely,Yes,Yes
+0,32,Male,No,Never,Don't know,No
+1,28,Female,Yes,Often,Yes,No
+1,28,Other,Yes,Rarely,No,Not sure
+0,23,Female,No,Unknown,Don't know,Not sure
+0,30,Male,No,Never,Don't know,Not sure
+1,36,Male,Yes,Sometimes,Yes,No
+0,21,Male,Yes,Unknown,Yes,Yes
+0,30,Male,No,Often,No,No
+0,25,Other,Yes,Unknown,Don't know,Not sure
+1,32,Male,No,Sometimes,No,No
+1,29,Female,No,Sometimes,No,No
+1,21,Other,No,Sometimes,No,Yes
+1,27,Female,Yes,Rarely,No,No
+1,32,Female,No,Often,Don't know,Not sure
+0,34,Male,No,Sometimes,Yes,Yes
+0,33,Male,No,Unknown,Don't know,No
+1,22,Male,Yes,Sometimes,No,Not sure
+0,24,Male,No,Unknown,Don't know,Not sure
+0,65,Male,No,Unknown,No,No
+1,27,Male,Yes,Sometimes,Don't know,No
+0,33,Male,No,Never,Don't know,Not sure
+1,36,Male,No,Rarely,Don't know,Not sure
+0,40,Male,No,Never,No,No
+1,28,Male,No,Sometimes,Yes,Yes
+1,39,Male,No,Sometimes,Yes,Not sure
+1,32,Male,No,Sometimes,Yes,No
+0,31,Male,Yes,Sometimes,Yes,Not sure
+1,38,Other,Yes,Sometimes,Don't know,No
+1,23,Male,Yes,Rarely,No,Yes
+1,42,Other,No,Often,Yes,Yes
+0,27,Female,No,Sometimes,Don't know,Not sure
+1,26,Female,Yes,Sometimes,Yes,Yes
+0,50,Male,No,Never,No,Yes
+0,37,Male,Yes,Never,Don't know,No
+0,23,Male,No,Unknown,Don't know,No
+0,33,Male,Yes,Sometimes,Don't know,Not sure
+0,29,Male,No,Never,Yes,Yes
+1,34,Male,Yes,Sometimes,Yes,No
+1,41,Male,Yes,Often,Yes,No
+0,50,Male,Yes,Unknown,Don't know,No
+1,29,Male,No,Never,Yes,Not sure
+0,35,Male,No,Never,No,Yes
+0,27,Male,No,Sometimes,No,No
+0,40,Female,No,Never,Don't know,Not sure
+1,27,Male,No,Often,No,No
+0,29,Female,No,Never,Yes,Yes
+1,31,Male,Yes,Sometimes,No,No
+1,43,Male,No,Sometimes,No,Yes
+1,34,Male,Yes,Sometimes,Yes,Yes
+1,29,Male,Yes,Sometimes,Don't know,No
+1,19,Male,Yes,Sometimes,No,No
+1,41,Male,Yes,Sometimes,Yes,Not sure
+0,29,Male,Yes,Never,Yes,Yes
+0,23,Male,No,Rarely,Yes,Not sure
+1,24,Female,Yes,Sometimes,Yes,Not sure
+0,31,Male,No,Unknown,Don't know,No
+0,43,Male,No,Unknown,Don't know,Not sure
+1,31,Male,Yes,Rarely,No,No
+0,29,Male,Yes,Often,Yes,Yes
+0,35,Male,Yes,Unknown,No,No
+1,33,Male,Yes,Sometimes,Yes,Not sure
+1,30,Female,Yes,Often,No,Yes
+0,27,Male,No,Unknown,Yes,Not sure
+0,32,Male,No,Sometimes,No,Yes
+0,50,Male,No,Sometimes,Don't know,No
+0,24,Male,No,Never,Don't know,Not sure
+0,27,Male,No,Unknown,Don't know,No
+0,27,Male,No,Never,No,No
+1,32,Male,No,Sometimes,No,Yes
+0,42,Male,No,Rarely,No,Yes
+0,37,Male,No,Often,Don't know,No
+0,30,Male,No,Sometimes,Don't know,Not sure
+0,29,Male,No,Rarely,Yes,No
+1,30,Male,No,Often,No,Not sure
+0,35,Male,No,Never,Yes,No
+1,35,Male,Yes,Rarely,Yes,Yes
+0,38,Male,Yes,Often,No,Not sure
+1,22,Male,Yes,Sometimes,Yes,Yes
+0,24,Male,Yes,Sometimes,Don't know,No
+0,22,Male,No,Never,Don't know,Not sure
+1,31,Female,No,Often,Yes,Yes
+1,23,Female,Yes,Sometimes,Yes,Yes
+1,31,Female,Yes,Sometimes,Don't know,No
+1,28,Female,Yes,Rarely,Yes,Yes
+1,37,Other,Yes,Sometimes,Yes,Yes
+1,34,Male,Yes,Sometimes,No,Yes
+0,32,Male,No,Sometimes,No,Yes
+1,28,Male,Yes,Sometimes,Yes,Not sure
+1,24,Female,No,Sometimes,No,No
+1,56,Male,Yes,Rarely,Yes,Yes
+0,31,Male,No,Sometimes,No,No
+1,34,Female,No,Sometimes,Yes,Yes
+1,35,Male,No,Rarely,Don't know,No
+0,28,Male,No,Never,No,No
+1,36,Male,Yes,Often,No,No
+1,30,Male,No,Often,No,No
+0,35,Male,No,Unknown,Yes,Not sure
+1,49,Male,Yes,Sometimes,No,Yes
+0,36,Male,No,Unknown,Yes,Yes
+0,35,Male,No,Unknown,No,No
+1,29,Female,Yes,Sometimes,Yes,Yes
+0,57,Male,No,Never,Yes,Yes
+1,31,Female,Yes,Rarely,Yes,No
+0,37,Male,No,Never,No,No
+1,25,Male,Yes,Sometimes,No,No
+0,30,Male,No,Sometimes,No,No
+0,26,Female,Yes,Sometimes,No,Yes
+0,22,Female,No,Often,No,No
+0,39,Male,No,Rarely,Don't know,No
+1,29,Male,Yes,Never,Don't know,Not sure
+1,54,Male,Yes,Sometimes,Don't know,Not sure
+0,34,Female,Yes,Never,Don't know,No
+1,32,Male,No,Never,Yes,Not sure
+0,25,Male,No,Unknown,No,No
+0,29,Male,No,Rarely,No,No
+0,32,Male,No,Never,No,No
+1,30,Male,Yes,Sometimes,Yes,Yes
+0,31,Male,No,Unknown,Don't know,No
+0,20,Female,No,Rarely,Yes,Yes
+0,27,Male,No,Never,Don't know,No
+0,32,Male,No,Never,Don't know,Not sure
+0,26,Male,No,Never,No,No
+0,30,Male,No,Sometimes,Don't know,No
+1,30,Male,No,Sometimes,No,No
+0,22,Male,No,Unknown,Don't know,No
+0,24,Male,No,Unknown,Don't know,Not sure
+0,26,Male,No,Never,No,No
+0,43,Male,No,Unknown,Don't know,No
+0,26,Male,No,Never,No,Not sure
+0,23,Male,Yes,Sometimes,Don't know,Not sure
+0,26,Other,No,Unknown,Yes,Not sure
+0,26,Female,Yes,Never,Don't know,No
+0,35,Male,Yes,Sometimes,Don't know,No
+1,28,Male,No,Sometimes,Don't know,Not sure
+0,22,Male,No,Unknown,No,No
+1,29,Female,Yes,Rarely,Don't know,No
+0,29,Male,No,Unknown,No,Yes
+1,45,Male,No,Often,Yes,Not sure
+1,33,Male,No,Rarely,No,No
+1,38,Male,No,Sometimes,Yes,Yes
+1,19,Other,Yes,Often,Don't know,Not sure
+1,29,Female,No,Rarely,Yes,Yes
+0,21,Female,No,Unknown,No,No
+1,23,Female,Yes,Sometimes,Don't know,Not sure
+1,33,Female,Yes,Rarely,Yes,Yes
+1,49,Male,Yes,Sometimes,Yes,Not sure
+0,28,Male,No,Unknown,Don't know,No
+1,27,Female,No,Sometimes,Don't know,Not sure
+1,23,Male,No,Sometimes,Yes,No
+0,29,Male,No,Never,No,No
+0,30,Male,No,Unknown,Don't know,No
+0,28,Female,No,Unknown,Yes,Not sure
+0,32,Male,No,Unknown,No,No
+1,32,Male,No,Sometimes,Yes,Yes
+0,37,Male,No,Unknown,No,No
+0,39,Female,No,Unknown,No,Yes
+0,31,Male,No,Unknown,Don't know,No
+0,29,Male,No,Unknown,No,No
+0,30,Male,No,Unknown,Yes,No
+1,33,Male,Yes,Rarely,No,Yes
+1,37,Male,Yes,Sometimes,Yes,Yes
+1,23,Male,No,Often,Yes,Yes
+1,43,Male,Yes,Sometimes,Yes,Not sure
+1,32,Male,No,Rarely,Don't know,No
+0,26,Male,No,Never,Don't know,Not sure
+1,32,Male,No,Sometimes,Don't know,Not sure
+0,37,Female,No,Unknown,Don't know,Not sure
+1,29,Male,No,Often,Yes,Yes
+0,34,Male,No,Unknown,No,No
+0,27,Male,No,Unknown,Don't know,Not sure
+0,30,Male,Yes,Never,Don't know,No
+0,29,Male,No,Never,Yes,Yes
+1,32,Male,Yes,Sometimes,Yes,Yes
+0,25,Male,No,Unknown,Yes,Yes
+0,37,Male,No,Unknown,Yes,Yes
+0,29,Male,Yes,Unknown,No,No
+0,27,Other,No,Unknown,Yes,Not sure
+0,33,Male,No,Unknown,Don't know,No
+1,30,Male,Yes,Sometimes,Don't know,No
+0,29,Male,No,Unknown,No,Yes
+1,25,Male,Yes,Never,Don't know,No
+1,33,Male,Yes,Sometimes,No,Yes
+0,31,Male,No,Never,No,No
+0,21,Male,No,Rarely,Don't know,No
+1,30,Male,Yes,Sometimes,Don't know,No
+0,29,Male,No,Unknown,Don't know,Not sure
+1,43,Male,No,Sometimes,No,No
+1,37,Male,No,Often,No,No
+0,24,Male,No,Unknown,No,No
+0,29,Male,No,Unknown,Don't know,Not sure
+0,31,Male,No,Unknown,Yes,Yes
+0,33,Male,No,Never,No,Not sure
+0,43,Male,No,Unknown,Yes,Yes
+1,33,Male,No,Sometimes,Don't know,Not sure
+0,27,Male,No,Unknown,No,No
+1,36,Male,Yes,Sometimes,Don't know,No
+1,37,Male,Yes,Sometimes,No,Yes
+0,32,Male,No,Unknown,No,Yes
+1,39,Male,No,Sometimes,No,No
+1,31,Male,Yes,Sometimes,Yes,Yes
+1,36,Male,No,Sometimes,Yes,Yes
+1,30,Male,No,Sometimes,Don't know,Not sure
+0,28,Male,No,Unknown,Yes,Not sure
+0,32,Male,No,Unknown,No,No
+1,35,Male,Yes,Rarely,Yes,Yes
+1,19,Male,No,Sometimes,Don't know,Not sure
+0,33,Male,Yes,Unknown,Yes,Yes
+0,42,Male,No,Unknown,Don't know,Not sure
+1,37,Male,Yes,Sometimes,Don't know,Not sure
+0,40,Male,No,Never,No,No
+0,36,Male,No,Never,Yes,Yes
+1,29,Female,Yes,Sometimes,Don't know,No
+1,38,Female,Yes,Sometimes,Yes,Not sure
+1,26,Male,Yes,Sometimes,Yes,No
+0,34,Male,No,Rarely,No,No
+1,21,Male,No,Often,No,Yes
+0,31,Male,Yes,Sometimes,No,Yes
+1,37,Female,Yes,Rarely,Yes,Yes
+1,37,Male,Yes,Sometimes,No,No
+1,38,Male,Yes,Sometimes,No,No
+1,27,Female,No,Sometimes,Don't know,Not sure
+0,39,Male,No,Unknown,No,No
+1,33,Female,Yes,Sometimes,Yes,Yes
+0,27,Male,No,Never,Don't know,Not sure
+1,36,Female,No,Never,Yes,No
+0,28,Male,No,Never,Don't know,Not sure
+1,39,Male,No,Sometimes,Don't know,No
+1,33,Male,Yes,Sometimes,No,Yes
+0,32,Male,No,Unknown,Don't know,Not sure
+0,28,Male,No,Unknown,Don't know,Not sure
+1,37,Male,Yes,Rarely,No,No
+1,39,Male,No,Sometimes,Yes,Yes
+0,43,Other,No,Sometimes,Don't know,No
+1,32,Other,No,Sometimes,Don't know,No
+0,27,Female,No,Unknown,Don't know,Not sure
+0,31,Female,No,Unknown,Don't know,No
+1,43,Male,No,Never,Don't know,No
+1,33,Male,No,Sometimes,No,Yes
+1,34,Male,Yes,Sometimes,Don't know,Not sure
+0,33,Male,No,Unknown,Don't know,No
+0,25,Male,No,Unknown,Don't know,No
+1,25,Male,Yes,Sometimes,Yes,Yes
+0,32,Male,Yes,Unknown,No,Yes
+1,25,Male,Yes,Sometimes,Yes,Yes
+0,37,Male,No,Unknown,Don't know,No
+1,39,Male,No,Never,Yes,Yes
+0,29,Male,No,Rarely,Don't know,Not sure
+1,33,Male,No,Sometimes,Yes,Yes
+1,37,Female,No,Often,Don't know,Not sure
+1,35,Female,No,Sometimes,Yes,No
+1,22,Female,Yes,Sometimes,Don't know,Not sure
+0,38,Male,No,Never,Yes,Yes
+1,32,Female,Yes,Often,Yes,No
+0,28,Male,No,Unknown,Don't know,No
+0,27,Male,Yes,Unknown,No,No
+1,35,Female,No,Sometimes,Don't know,No
+0,29,Male,No,Never,Yes,Yes
+1,23,Male,Yes,Sometimes,No,Yes
+0,39,Male,No,Unknown,Yes,No
+0,30,Female,No,Unknown,Yes,Yes
+0,32,Male,No,Unknown,Don't know,Not sure
+1,28,Female,No,Sometimes,No,Yes
+1,40,Female,Yes,Sometimes,Yes,Yes
+0,36,Female,Yes,Unknown,Don't know,No
+0,27,Male,No,Unknown,Don't know,Not sure
+0,41,Male,Yes,Sometimes,Yes,Yes
+0,29,Male,No,Never,Don't know,No
+1,29,Male,No,Sometimes,No,No
+1,35,Male,No,Often,No,No
+1,28,Male,No,Never,No,Yes
+0,36,Female,No,Sometimes,Don't know,Not sure
+0,39,Female,No,Sometimes,Don't know,Not sure
+1,39,Male,Yes,Sometimes,Yes,Yes
+1,44,Male,Yes,Sometimes,No,Yes
+1,26,Other,No,Sometimes,No,Not sure
+1,35,Male,Yes,Often,No,Yes
+1,40,Female,Yes,Sometimes,Yes,Not sure
+1,35,Male,Yes,Often,No,Yes
+0,38,Male,No,Never,No,Yes
+0,34,Male,No,Unknown,Don't know,Not sure
+0,43,Male,No,Unknown,Yes,No
+0,48,Female,Yes,Often,Don't know,No
+0,20,Male,No,Never,Don't know,Not sure
+0,40,Male,No,Sometimes,Don't know,Not sure
+1,29,Female,No,Rarely,Don't know,No
+1,35,Male,Yes,Sometimes,No,Yes
+0,29,Male,Yes,Sometimes,Yes,Yes
+0,40,Male,No,Never,Yes,Not sure
+1,29,Male,No,Rarely,No,Yes
+1,29,Female,Yes,Rarely,Yes,Not sure
+1,34,Male,No,Sometimes,No,No
+1,44,Male,Yes,Sometimes,Don't know,No
+1,24,Female,Yes,Often,Yes,Yes
+0,47,Female,No,Unknown,Don't know,No
+0,43,Male,Yes,Unknown,Don't know,No
+0,36,Male,No,Rarely,Yes,Yes
+1,43,Male,No,Sometimes,Don't know,No
+0,36,Male,No,Sometimes,No,No
+1,31,Female,Yes,Sometimes,Yes,Yes
+0,35,Male,No,Sometimes,Don't know,Not sure
+0,33,Male,Yes,Unknown,Yes,No
+0,37,Male,No,Sometimes,Don't know,Not sure
+1,34,Male,No,Sometimes,Don't know,No
+1,36,Male,No,Sometimes,No,No
+1,40,Male,Yes,Sometimes,No,Yes
+0,40,Male,No,Rarely,Yes,Yes
+1,42,Male,No,Sometimes,No,Yes
+0,23,Male,Yes,Unknown,Yes,Yes
+0,21,Male,Yes,Never,No,No
+0,26,Male,No,Sometimes,No,No
+0,31,Male,Yes,Unknown,Don't know,Not sure
+0,25,Male,Yes,Unknown,Yes,Yes
+0,51,Male,No,Never,Yes,Yes
+0,24,Male,No,Unknown,Don't know,Not sure
+0,33,Male,No,Unknown,No,No
+1,32,Male,Yes,Rarely,No,No
+1,32,Male,Yes,Rarely,No,No
+1,26,Male,No,Rarely,No,Not sure
+0,23,Male,No,Never,Don't know,No
+1,33,Male,Yes,Often,No,Yes
+1,46,Male,No,Rarely,Yes,Yes
+0,34,Male,No,Unknown,No,No
+1,35,Male,Yes,Sometimes,Yes,Yes
+0,39,Male,No,Unknown,No,Yes
+0,32,Male,No,Sometimes,No,Yes
+0,43,Male,No,Unknown,Don't know,No
+1,56,Male,No,Rarely,Yes,Yes
+1,32,Female,Yes,Sometimes,Don't know,No
+0,41,Male,No,Unknown,Yes,Yes
+0,39,Male,No,Unknown,Don't know,Not sure
+0,37,Male,Yes,Unknown,Yes,Yes
+1,30,Male,Yes,Sometimes,Don't know,Not sure
+0,31,Male,No,Unknown,Yes,No
+0,29,Male,No,Unknown,Don't know,Not sure
+0,23,Female,Yes,Never,No,No
+1,31,Male,No,Never,Yes,Yes
+1,29,Male,Yes,Sometimes,Don't know,Not sure
+0,30,Other,No,Never,Yes,Yes
+0,37,Male,No,Never,Yes,No
+0,36,Male,No,Never,Yes,No
+1,35,Male,Yes,Sometimes,Yes,Yes
+0,41,Male,Yes,Never,Don't know,No
+1,31,Male,No,Rarely,Don't know,Not sure
+0,38,Male,Yes,Unknown,Yes,Yes
+0,26,Male,No,Unknown,No,No
+0,39,Male,Yes,Sometimes,Yes,No
+0,42,Male,Yes,Sometimes,Yes,Not sure
+1,32,Male,Yes,Rarely,No,Yes
+0,29,Male,Yes,Unknown,Don't know,Not sure
+0,30,Male,Yes,Never,Yes,No
+1,40,Male,Yes,Often,Don't know,Not sure
+0,51,Male,No,Unknown,Don't know,Not sure
+0,33,Male,No,Never,Yes,Yes
+1,34,Male,No,Sometimes,No,Not sure
+0,50,Male,No,Never,No,Yes
+0,24,Male,No,Sometimes,Don't know,No
+1,25,Male,Yes,Rarely,No,No
+1,43,Male,Yes,Rarely,No,No
+1,25,Female,No,Often,Yes,Yes
+0,24,Male,No,Unknown,No,Yes
+0,51,Male,No,Never,No,Yes
+1,49,Male,Yes,Sometimes,Yes,Yes
+0,30,Male,No,Unknown,Yes,No
+1,25,Female,Yes,Sometimes,Yes,Yes
+1,36,Male,No,Rarely,Yes,Yes
+1,48,Male,No,Never,Yes,Yes
+1,48,Male,No,Sometimes,No,No
+1,53,Male,No,Rarely,Yes,Yes
+1,24,Female,Yes,Often,No,No
+1,33,Male,Yes,Sometimes,Don't know,Yes
+1,25,Female,Yes,Sometimes,Yes,Yes
+1,30,Male,No,Sometimes,No,No
+0,30,Male,No,Never,No,Yes
+1,34,Male,No,Sometimes,No,No
+0,31,Male,No,Unknown,Yes,Yes
+1,22,Female,Yes,Often,Don't know,Not sure
+0,28,Male,Yes,Sometimes,Don't know,Not sure
+1,35,Male,Yes,Rarely,Yes,Yes
+1,28,Male,Yes,Sometimes,Yes,No
+1,42,Male,No,Sometimes,No,Yes
+0,33,Male,Yes,Unknown,Yes,No
+0,29,Male,No,Sometimes,Yes,No
+0,43,Male,Yes,Sometimes,Yes,Not sure
+0,29,Male,No,Unknown,Yes,Yes
+0,25,Male,No,Unknown,Yes,No
+0,31,Male,Yes,Never,Don't know,No
+1,35,Female,Yes,Sometimes,Yes,Not sure
+0,34,Male,No,Often,Don't know,No
+1,43,Male,No,Sometimes,Yes,Yes
+1,38,Male,Yes,Sometimes,No,Not sure
+1,26,Male,Yes,Sometimes,Don't know,Not sure
+1,38,Male,Yes,Rarely,No,No
+1,42,Male,No,Often,Don't know,No
+1,33,Male,Yes,Unknown,Don't know,No
+1,32,Male,No,Rarely,Yes,Yes
+1,44,Male,Yes,Sometimes,Yes,Yes
+1,28,Male,Yes,Rarely,Yes,Yes
+1,40,Male,Yes,Sometimes,Yes,Yes
+1,31,Female,Yes,Sometimes,Yes,Yes
+0,32,Male,Yes,Sometimes,Yes,Yes
+1,28,Male,Yes,Sometimes,Don't know,No
+1,39,Male,Yes,Often,Yes,Yes
+0,45,Male,No,Unknown,Yes,Yes
+1,43,Male,No,Rarely,Yes,Yes
+1,35,Male,No,Sometimes,Yes,Yes
+1,40,Male,Yes,Sometimes,Yes,Yes
+1,34,Male,No,Rarely,No,Yes
+1,24,Male,Yes,Often,Don't know,Yes
+1,61,Male,No,Sometimes,No,No
+1,36,Female,Yes,Rarely,Don't know,No
+0,38,Male,No,Unknown,No,No
+1,33,Male,Yes,Often,Don't know,Not sure
+0,30,Male,Yes,Never,Don't know,No
+1,34,Male,Yes,Rarely,Yes,Yes
+1,26,Male,No,Rarely,Yes,Not sure
+0,33,Male,No,Unknown,Don't know,Not sure
+0,32,Male,No,Unknown,Don't know,No
+0,25,Male,No,Sometimes,No,Yes
+1,35,Male,No,Sometimes,Don't know,No
+0,24,Male,Yes,Often,Don't know,Not sure
+1,55,Male,No,Often,Yes,Yes
+1,33,Male,Yes,Sometimes,No,Yes
+1,26,Female,Yes,Sometimes,No,No
+0,25,Male,No,Never,Don't know,Not sure
+0,45,Male,Yes,Rarely,Don't know,No
+1,33,Female,No,Sometimes,No,Yes
+0,43,Male,No,Sometimes,No,Not sure
+1,30,Male,No,Sometimes,No,Yes
+1,40,Male,Yes,Rarely,Don't know,Not sure
+0,49,Male,Yes,Never,Yes,Yes
+0,29,Male,No,Unknown,Don't know,Not sure
+0,26,Male,No,Unknown,Don't know,No
+0,38,Male,No,Never,Yes,Yes
+0,27,Male,Yes,Unknown,Yes,Yes
+0,26,Male,No,Never,Yes,No
+1,28,Male,Yes,Often,No,No
+1,40,Male,Yes,Sometimes,No,No
+1,37,Female,Yes,Rarely,No,Yes
+1,34,Female,Yes,Often,Yes,Yes
+1,28,Male,Yes,Often,Don't know,Not sure
+0,27,Male,No,Never,Yes,Not sure
+1,29,Male,No,Sometimes,No,No
+0,39,Female,Yes,Rarely,Don't know,Not sure
+0,28,Male,No,Often,No,No
+0,23,Male,Yes,Sometimes,Yes,Not sure
+0,38,Male,No,Unknown,No,No
+0,19,Male,No,Unknown,Yes,No
+1,30,Female,Yes,Sometimes,Yes,Yes
+0,28,Male,No,Unknown,No,Yes
+1,20,Male,No,Sometimes,Don't know,No
+0,35,Male,No,Sometimes,Don't know,Not sure
+1,39,Male,No,Rarely,Yes,Yes
+0,31,Female,Yes,Never,Yes,Not sure
+0,32,Male,No,Rarely,No,No
+0,27,Male,No,Unknown,No,No
+1,25,Male,Yes,Often,Yes,Yes
+1,42,Male,Yes,Sometimes,Don't know,No
+1,34,Male,Yes,Often,Yes,Yes
+1,26,Female,No,Sometimes,Don't know,No
+1,35,Male,Yes,Sometimes,No,Yes
+0,34,Male,No,Never,Don't know,No
+1,38,Male,Yes,Sometimes,Yes,Yes
+0,34,Male,No,Sometimes,Don't know,No
+1,39,Male,Yes,Sometimes,No,Yes
+0,44,Female,No,Unknown,Don't know,Not sure
+0,40,Male,No,Unknown,Yes,Yes
+0,33,Female,No,Never,No,Yes
+0,24,Female,Yes,Sometimes,Yes,Yes
+0,38,Female,Yes,Sometimes,Don't know,Not sure
+0,31,Male,No,Sometimes,Yes,Not sure
+0,23,Male,No,Unknown,Don't know,Not sure
+0,26,Female,No,Unknown,Don't know,Not sure
+1,46,Female,No,Often,Yes,Yes
+1,30,Male,Yes,Sometimes,Yes,No
+0,25,Male,No,Rarely,Don't know,No
+0,19,Male,No,Never,Don't know,No
+1,30,Female,Yes,Sometimes,Yes,Yes
+0,32,Male,No,Never,Yes,Yes
+0,32,Male,No,Unknown,No,No
+0,37,Male,Yes,Sometimes,Don't know,No
+1,42,Male,Yes,Sometimes,Don't know,No
+0,25,Female,No,Never,Yes,Yes
+0,19,Male,No,Sometimes,Don't know,Not sure
+0,40,Female,Yes,Never,Yes,Yes
+0,34,Male,No,Unknown,Yes,Not sure
+0,26,Male,Yes,Unknown,Don't know,Not sure
+1,31,Male,Yes,Rarely,Don't know,Not sure
+0,40,Male,Yes,Sometimes,Yes,Not sure
+1,31,Female,Yes,Often,No,No
+0,36,Male,No,Never,Don't know,No
+0,35,Male,Yes,Sometimes,No,Yes
+1,26,Male,Yes,Sometimes,No,No
+0,44,Male,No,Unknown,Don't know,No
+0,34,Female,No,Sometimes,No,Not sure
+0,35,Male,No,Unknown,No,No
+1,28,Female,Yes,Sometimes,Don't know,No
+0,33,Male,No,Unknown,Yes,No
+1,40,Male,Yes,Sometimes,Yes,Yes
+1,26,Male,No,Sometimes,Yes,Yes
+1,29,Female,No,Often,Yes,Yes
+1,26,Female,Yes,Sometimes,Yes,Not sure
+1,33,Other,Yes,Sometimes,No,Not sure
+0,28,Male,Yes,Sometimes,No,No
+1,41,Male,No,Often,No,Yes
+1,39,Male,Yes,Sometimes,No,Yes
+1,26,Female,Yes,Sometimes,Yes,Yes
+0,23,Female,Yes,Sometimes,No,No
+1,35,Male,Yes,Often,Don't know,Not sure
+0,36,Male,No,Never,Don't know,Not sure
+0,42,Male,No,Rarely,Don't know,No
+1,39,Male,Yes,Sometimes,Yes,Yes
+0,27,Male,No,Never,Don't know,No
+0,33,Male,No,Never,Don't know,No
+1,31,Male,Yes,Often,Yes,Not sure
+1,28,Female,No,Rarely,Yes,Yes
+1,29,Female,No,Often,Yes,No
+1,27,Male,No,Sometimes,Don't know,Not sure
+0,44,Male,No,Never,Don't know,No
+1,25,Male,No,Often,Don't know,No
+1,24,Male,Yes,Sometimes,No,No
+1,25,Male,Yes,Often,Don't know,No
+0,34,Male,No,Never,Yes,Not sure
+0,26,Male,No,Never,Yes,Yes
+0,48,Male,No,Never,Yes,Yes
+0,34,Male,No,Unknown,No,No
+1,39,Female,No,Sometimes,No,No
+0,43,Male,No,Sometimes,Yes,Not sure
+0,41,Male,No,Rarely,Yes,Yes
+0,25,Male,No,Never,Don't know,No
+1,31,Male,No,Sometimes,Yes,Yes
+1,40,Male,Yes,Sometimes,Yes,Yes
+1,43,Male,Yes,Sometimes,Yes,Not sure
+1,27,Female,Yes,Often,Yes,Yes
+1,37,Female,Yes,Sometimes,Yes,Yes
+1,32,Male,No,Sometimes,No,No
+1,25,Male,Yes,Often,No,Yes
+1,29,Male,Yes,Often,Don't know,Not sure
+1,30,Female,Yes,Often,Yes,No
+1,34,Female,Yes,Often,Don't know,No
+1,32,Male,Yes,Sometimes,Yes,Yes
+0,37,Male,No,Unknown,Don't know,No
+1,41,Male,No,Sometimes,Don't know,No
+0,38,Male,Yes,Never,Yes,Not sure
+1,32,Male,No,Sometimes,Yes,Yes
+1,28,Female,Yes,Sometimes,Yes,Yes
+0,43,Male,Yes,Never,Yes,Yes
+1,32,Male,Yes,Often,No,Yes
+1,25,Male,No,Sometimes,Yes,Yes
+1,37,Male,No,Sometimes,Yes,No
+1,36,Male,No,Sometimes,No,Yes
+1,24,Male,Yes,Rarely,Don't know,No
+1,40,Male,Yes,Sometimes,Yes,Not sure
+0,29,Male,No,Unknown,Don't know,Not sure
+0,43,Male,No,Never,Don't know,No
+0,29,Male,No,Unknown,Yes,Not sure
+0,26,Male,Yes,Sometimes,Don't know,Not sure
+1,33,Female,Yes,Often,No,Yes
+0,35,Female,Yes,Sometimes,Don't know,No
+0,45,Male,No,Never,Yes,No
+1,25,Male,No,Rarely,No,Yes
+1,50,Male,No,Sometimes,No,No
+1,26,Male,Yes,Rarely,No,No
+1,33,Female,No,Often,Yes,Yes
+0,30,Male,No,Often,No,No
+1,33,Male,Yes,Sometimes,Yes,Yes
+1,29,Male,No,Often,Yes,No
+0,37,Male,No,Unknown,No,Not sure
+1,25,Male,Yes,Sometimes,Don't know,No
+0,40,Male,No,Unknown,Yes,Not sure
+0,24,Male,No,Sometimes,Yes,Yes
+1,40,Male,No,Never,Don't know,Not sure
+1,46,Male,Yes,Sometimes,Don't know,Yes
+1,38,Male,Yes,Rarely,Yes,Yes
+0,34,Male,No,Never,No,Yes
+1,32,Male,No,Rarely,No,Yes
+1,44,Male,No,Sometimes,No,No
+1,33,Female,No,Never,Don't know,Not sure
+1,45,Female,No,Rarely,Don't know,No
+0,35,Male,No,Unknown,Don't know,Not sure
+1,26,Male,Yes,Often,No,No
+1,20,Female,No,Sometimes,Don't know,Not sure
+0,37,Male,Yes,Sometimes,No,No
+0,28,Male,No,Unknown,Yes,No
+1,42,Female,Yes,Sometimes,Yes,Yes
+0,32,Male,No,Unknown,No,No
+1,36,Female,Yes,Rarely,Yes,Yes
+0,27,Male,No,Rarely,No,Yes
+0,27,Male,No,Rarely,No,Yes
+1,27,Male,No,Sometimes,No,No
+1,25,Male,Yes,Sometimes,No,No
+0,41,Male,Yes,Unknown,No,No
+1,23,Male,Yes,Sometimes,Don't know,Not sure
+1,21,Male,No,Sometimes,Don't know,No
+1,26,Male,No,Often,No,Yes
+0,29,Male,No,Rarely,Don't know,Not sure
+0,28,Male,No,Sometimes,No,No
+0,27,Female,Yes,Unknown,No,Yes
+0,23,Male,No,Never,No,Yes
+0,26,Female,Yes,Sometimes,Don't know,No
+1,38,Male,Yes,Sometimes,No,Not sure
+1,39,Male,Yes,Sometimes,No,No
+1,35,Male,Yes,Often,Yes,Yes
+0,32,Male,No,Rarely,Yes,Not sure
+1,32,Male,No,Sometimes,Yes,Yes
+0,26,Male,No,Never,No,No
+1,38,Male,Yes,Rarely,Don't know,Not sure
+0,34,Female,Yes,Rarely,Yes,Yes
+1,39,Male,Yes,Often,Don't know,Not sure
+0,32,Male,No,Never,Don't know,Not sure
+0,37,Male,No,Never,Don't know,Not sure
+1,31,Male,Yes,Never,Don't know,Not sure
+1,30,Male,Yes,Rarely,No,Yes
+0,51,Male,No,Never,Don't know,No
+1,29,Male,No,Sometimes,Yes,Yes
+0,31,Male,No,Never,Yes,No
+0,31,Male,No,Unknown,Don't know,Not sure
+1,26,Male,Yes,Sometimes,Don't know,No
+1,46,Female,No,Often,Yes,Yes
+0,32,Male,Yes,Sometimes,Yes,No
+1,29,Male,Yes,Sometimes,Yes,Yes
+0,34,Male,No,Never,Don't know,Not sure
+0,26,Male,No,Often,No,No
+1,32,Female,No,Sometimes,Yes,Yes
+0,29,Male,No,Unknown,Don't know,Not sure
+0,30,Male,No,Unknown,Yes,No
+1,40,Female,Yes,Sometimes,Yes,Yes
+1,23,Male,No,Sometimes,No,No
+0,20,Male,No,Rarely,No,No
+0,38,Male,Yes,Unknown,Don't know,No
+1,26,Female,Yes,Rarely,Yes,No
+0,29,Male,No,Never,No,No
+0,40,Male,No,Sometimes,No,Yes
+1,25,Female,No,Sometimes,No,No
+1,32,Other,No,Sometimes,Yes,Yes
+1,38,Male,Yes,Sometimes,Yes,Yes
+1,72,Female,Yes,Never,Yes,Not sure
+1,35,Female,Yes,Sometimes,No,No
+1,28,Female,No,Often,No,Yes
+0,27,Other,No,Never,Don't know,Not sure
+0,56,Female,No,Rarely,Don't know,Not sure
+1,38,Male,Yes,Sometimes,Yes,No
+0,31,Female,No,Unknown,Don't know,Not sure
+1,40,Male,Yes,Sometimes,Yes,Yes
+1,44,Male,Yes,Sometimes,Yes,Yes
+0,34,Male,Yes,Sometimes,Yes,Not sure
+0,37,Male,No,Never,Don't know,No
+0,38,Male,No,Never,Don't know,Not sure
+0,27,Male,No,Unknown,Don't know,Not sure
+1,34,Female,No,Sometimes,Yes,Yes
+0,35,Female,No,Rarely,Don't know,No
+1,34,Male,No,Often,No,No
+1,32,Male,No,Often,Yes,Not sure
+0,25,Male,No,Unknown,Don't know,Not sure
+1,28,Male,No,Often,No,Yes
+1,28,Female,No,Rarely,Yes,No
+1,31,Male,No,Unknown,No,Yes
+0,24,Male,No,Unknown,Don't know,Not sure
+1,34,Male,Yes,Never,No,No
+1,32,Male,No,Sometimes,No,No
+0,34,Male,Yes,Often,Don't know,Not sure
+1,23,Male,No,Sometimes,No,Yes
+0,33,Male,Yes,Often,No,Yes
+1,29,Male,Yes,Sometimes,Don't know,Not sure
+0,24,Male,Yes,Unknown,No,No
+0,45,Male,No,Never,Don't know,Not sure
+1,34,Female,No,Sometimes,No,Yes
+0,31,Male,No,Sometimes,Don't know,No
+1,33,Male,No,Often,Yes,Yes
+0,28,Male,No,Unknown,No,Not sure
+0,27,Male,No,Rarely,Don't know,Not sure
+0,42,Male,No,Never,No,Yes
+0,28,Male,No,Unknown,No,Not sure
+1,38,Male,No,Sometimes,Yes,No
+1,46,Male,Yes,Often,Don't know,No
+1,46,Male,Yes,Sometimes,Don't know,Not sure
+1,41,Female,No,Rarely,Don't know,Yes
+0,23,Male,No,Never,Don't know,No
+1,24,Male,Yes,Sometimes,Yes,Yes
+1,23,Female,No,Rarely,No,Yes
+0,39,Male,No,Unknown,Yes,Not sure
+0,32,Female,Yes,Never,Yes,Yes
+1,25,Male,Yes,Sometimes,Don't know,Yes
+0,39,Male,No,Unknown,No,No
+1,23,Female,Yes,Sometimes,No,Yes
+1,24,Other,No,Sometimes,No,No
+1,25,Male,Yes,Sometimes,Yes,Yes
+1,23,Male,No,Rarely,No,Yes
+1,24,Male,No,Sometimes,Don't know,No
+1,23,Male,No,Often,Yes,Yes
+1,60,Male,No,Often,Don't know,No
+0,28,Male,No,Sometimes,No,Yes
+1,28,Male,Yes,Often,Yes,Yes
+0,30,Male,No,Sometimes,Don't know,No
+1,31,Male,Yes,Sometimes,Don't know,No
+1,31,Male,No,Often,No,No
+1,28,Male,No,Rarely,Don't know,No
+1,43,Female,Yes,Rarely,Yes,Yes
+0,32,Female,No,Unknown,No,No
+1,22,Male,Yes,Often,Yes,Yes
+0,32,Male,No,Never,Yes,Not sure
+1,36,Male,No,Often,No,No
+1,41,Female,Yes,Sometimes,Yes,No
+1,30,Male,Yes,Sometimes,Yes,Yes
+1,30,Male,Yes,Often,Yes,Not sure
+1,36,Male,Yes,Often,No,Yes
+1,29,Male,Yes,Sometimes,Yes,Yes
+0,36,Male,Yes,Rarely,Don't know,No
+1,26,Male,No,Unknown,No,No
+1,32,Male,Yes,Often,Yes,Yes
+1,34,Male,Yes,Sometimes,Yes,Yes
+0,46,Female,No,Unknown,No,Yes
+1,25,Male,Yes,Sometimes,Yes,Yes

@@ -1,0 +1,160 @@
+---
+title: "科技行业心理健康求助行为影响因素分析"
+author: "wwj" 
+date: "2026-10-15"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+## 1. 背景与研究问题
+
+本研究使用 Kaggle 上的 OSMI 科技行业心理健康调查数据，探讨影响从业者是否寻求心理治疗的核心因素。研究问题：年龄、性别、家族史、工作干扰程度以及公司福利是否与求助行为相关？
+
+## 2. 数据加载与清洗
+
+原始数据共 1259 条记录。我们剔除了年龄小于 18 岁和大于 75 岁的异常样本，最终保留 1251 人。针对 `Gender` 中的乱码，我们通过文本匹配重新归类为 Male、Female 和 Other 三类。针对 `work_interfere` 等变量中的缺失值，我们将其保留为单独的 "Unknown" 类别，以避免信息损失。最终纳入分析的变量包括：治疗情况、年龄、性别、家族史、工作干扰、公司福利和关怀选项。
+
+```{r}
+# 加载数据（注意：这里假设你的工作目录在项目根目录下）
+library(tidyverse)
+library(here)
+d <- read_csv(here("data","archive","survey.csv"))
+
+# 数据清洗流水线（将你 clean_data.R 的代码整合成一条链，保证清晰）
+d_clean <- d %>%
+  select(treatment, Age, Gender, family_history, work_interfere, benefits, care_options) %>%
+  filter(Age >= 18 & Age <= 75) %>%
+  mutate(
+    # 1. 处理工作干扰缺失值
+    work_interfere = if_else(is.na(work_interfere), "Unknown", work_interfere),
+    
+    # 2. 将分类变量转为因子，并设置参照组
+    treatment = factor(treatment, levels = c("No", "Yes")), # 将 "No" 设为参照组
+    benefits = factor(benefits, levels = c("Yes", "No", "Don't know")),
+    care_options = factor(care_options, levels = c("Yes", "No", "Not sure")),
+    
+    # 3. 清洗性别乱码
+    Gender = case_when(
+      str_detect(str_to_lower(Gender), "female|^f$") ~ "Female",
+      str_detect(str_to_lower(Gender), "male|^m$") ~ "Male",
+      TRUE ~ "Other"
+    ),
+    Gender = factor(Gender, levels = c("Female", "Male", "Other"))
+  )
+
+# 检查清洗结果
+colSums(is.na(d_clean)) # 确认没有 NA
+```
+
+## 3. 描述性统计
+
+年龄分布经直方图和 QQ 图检验显示为右偏态，因此采用中位数（P25, P75）进行描述。单因素分析（Table 1）显示，性别、家族史、工作干扰程度、公司福利在寻求治疗组与未寻求治疗组之间差异显著。
+
+```{r}
+library(ggplot2)
+# 画图确认分布
+p1 <- ggplot(d_clean, aes(x = Age)) +
+  geom_histogram(aes(y = after_stat(density)), binwidth = 2, fill = "steelblue", color = "white") +
+  geom_density(color = "red", linewidth = 1) +
+  labs(title = "年龄分布直方图", x = "年龄", y = "密度") +
+  theme_minimal()
+
+p2 <- ggplot(d_clean, aes(sample = Age)) +
+  stat_qq(color = "darkred", size = 1.5) +
+  stat_qq_line(color = "blue", linewidth = 1) +
+  labs(title = "年龄QQ图", x = "理论分位数", y = "样本分位数") +
+  theme_minimal()
+
+
+```
+
+```{r}
+library(gtsummary)
+# Table 1 基线特征表
+table1 <- d_clean %>%
+  select(treatment, Age, Gender, family_history, work_interfere, benefits, care_options) %>%
+  tbl_summary(
+    by = treatment,
+    statistic = list(
+      all_continuous() ~ "{median} ({p25}, {p75})",
+      all_categorical() ~ "{n} ({p}%)"
+    ),
+    digits = all_continuous() ~ 1
+  ) %>%
+  add_p(test = list(
+    all_continuous() ~ "wilcox.test",
+    all_categorical() ~ "chisq.test"
+  )) %>%
+  add_overall()
+
+table1
+```
+
+## 4. 多因素 Logistic 回归
+
+在控制所有其他变量后，男性寻求心理治疗的几率显著低于女性，有家族史者和工作受干扰程度高者更倾向于寻求治疗。公司福利和关怀选项也显示出显著影响。
+
+```{r}
+library(car)
+# 将 treatment 转为 0/1 以适应模型
+d_clean <- d_clean %>% mutate(treatment_num = if_else(treatment == "Yes", 1, 0))
+
+# 拟合多因素 Logistic 回归
+fit_multi_logit <- glm(treatment_num ~ Age + Gender + family_history + work_interfere + benefits + care_options,
+                       data = d_clean, family = binomial)
+
+# 检查共线性
+vif(fit_multi_logit)
+```
+
+```{r}
+# 计算 OR 值和 95% 置信区间
+OR <- exp(coef(fit_multi_logit))
+CI <- exp(confint(fit_multi_logit))
+print(cbind(OR = OR, CI))
+```
+
+## 5. 模型诊断
+
+VIF 值均小于 5，说明模型不存在严重的多重共线性。残差图显示模型拟合基本正常。
+
+```{r}
+# 模型诊断图
+par(mfrow = c(2, 2))
+plot(fit_multi_logit)
+par(mfrow = c(1, 1))
+```
+
+## 6. 结论与局限
+
+
+**结论**：科技行业从业者的心理健康求助行为受工作干扰程度、家族史、性别、公司福利和关怀选项的显著影响。年龄在单因素分析中显著，但在多因素模型中不再显著，提示其作用可能被其他因素（如工作干扰）混杂。
+
+**局限**：本研究为横截面数据，不能推断因果关系。数据存在自我报告偏倚。此外，模型中包含部分未知/不确定的回答，这可能会对结果产生一定影响。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

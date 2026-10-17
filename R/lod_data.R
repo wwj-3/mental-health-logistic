@@ -1,0 +1,6 @@
+library(tidyverse)
+d <- read_csv("data/archive/survey.csv")
+head(d)
+glimpse(d)
+names(d)
+colSums(is.na(d))
